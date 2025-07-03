@@ -73,13 +73,18 @@ A hands-on data engineering project to parse raw log files using **AWS Glue**, *
 
 ## 📸 Screenshots
 
-| Glue ETL Visual Job | Input vs Output (Excel) |
-|---------------------|-------------------------|
-| ![Glue ETL](![Image](https://github.com/user-attachments/assets/68851ff5-a872-44ab-a020-c8a9ba350c8e)) |
-| ![Excel Raw_Uploaded](![Image](https://github.com/user-attachments/assets/899b5b3e-d6ca-4b44-a82e-05aee54cdea4)) |
-| ![Excel Output](![Image](https://github.com/user-attachments/assets/cefac3c1-f9d6-4012-9c86-dfcf6a9f986b)) |
+### 🧱 1. Glue ETL Visual Job
+![Glue ETL](https://github.com/user-attachments/assets/68851ff5-a872-44ab-a020-c8a9ba350c8e)
 
 ---
+
+### 📥 2. Excel Input (Raw Log Data)
+![Excel Input](https://github.com/user-attachments/assets/899b5b3e-d6ca-4b44-a82e-05aee54cdea4)
+
+---
+
+### 📤 3. Excel Output (Transformed CSV)
+![Excel Output](https://github.com/user-attachments/assets/9b7acf2e-96bf-4baf-91e8-4633128b4652)
 
 ---
 
