@@ -1,0 +1,6 @@
+timestamp,text,logcode,partition_0,Level,Message,Source
+"29-03-2024 10:15","INFO|User logged in successfully|Authentication",200,system-log,INFO,"User logged in successfully",Authentication
+"29-03-2024 10:17","ERROR|Database connection failed|Database",300,system-log,ERROR,"Database connection failed",Database
+"29-03-2024 10:20","WARNING|Low disk space detected|Server",100,system-log,WARNING,"Low disk space detected",Server
+"29-03-2024 10:25","INFO|File uploaded successfully|File System",200,system-log,INFO,"File uploaded successfully","File System"
+"29-03-2024 10:30","ERROR|Application crashed unexpectedly|Application",200,system-log,ERROR,"Application crashed unexpectedly",Application

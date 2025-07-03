@@ -1,0 +1,6 @@
+Timestamp,Text,LogCode
+29-03-2024 10:15,INFO|User logged in successfully|Authentication,200
+29-03-2024 10:17,ERROR|Database connection failed|Database,300
+29-03-2024 10:20,WARNING|Low disk space detected|Server,100
+29-03-2024 10:25,INFO|File uploaded successfully|File System,200
+29-03-2024 10:30,ERROR|Application crashed unexpectedly|Application,200
